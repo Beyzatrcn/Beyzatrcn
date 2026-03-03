@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Beyza
 
-🎓 Master's student in **Business Informatics (Wirtschaftsinformatik)** with a strong interest in **data-driven decision making, IT controlling, and business intelligence**.
+🎓 Master's student in **Business Informatics (Wirtschaftsinformatik)** with a strong interest in **data-driven decision making, data engineering, and business intelligence**.
 
 💡 I enjoy working at the intersection of **data analytics, business processes, and digital transformation**.
 
