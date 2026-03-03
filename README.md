@@ -1,12 +1,43 @@
-- 👋 Hi, I’m @Beyzatrcn  
-- 👀 I’m interested in **Data Science, Business Informatics, and Process Automation**.  
-- 🌱 I’m currently studying **a Master's in Business Informatics** and working on **Data Science projects**.  
-- 💞️ I’m looking to collaborate on **data-driven projects, automation, and business process optimization**.  
-- 📫 How to reach me: **b.tercan@outlook.com**  
-- 😄 Pronouns: **She/Her**  
-- ⚡ Fun fact: **I love combining data science and business processes to create innovative solutions!**
+# 👋 Hi, I'm Beyza
 
-<!---
-Beyzatrcn/Beyzatrcn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Master's student in **Business Informatics (Wirtschaftsinformatik)** with a strong interest in **data-driven decision making, IT controlling, and business intelligence**.
+
+💡 I enjoy working at the intersection of **data analytics, business processes, and digital transformation**.
+
+## 🔍 Areas of Interest
+
+* Data Analytics & Business Intelligence
+* IT Controlling & Financial Data Analysis
+* Process Automation & Digitalisation
+* Data Engineering for Business Applications
+
+## 🛠 Tools & Technologies
+
+* Python (pandas, data analysis)
+* SQL
+* Power BI
+* Excel & Data Modelling
+* Git & GitHub
+* Process modelling (BPMN)
+
+## 📚 Currently
+
+* Studying **MSc in Business Informatics**
+* Building projects related to **data analytics and IT controlling**
+* Exploring ways to automate business and reporting processes
+
+## 🤝 Collaboration
+
+I'm interested in collaborating on projects related to:
+
+* Data analytics
+* Business intelligence
+* Automation of business processes
+* Data-driven decision support
+
+## 📫 Contact
+
+📧 [b.tercan@outlook.com](mailto:b.tercan@outlook.com)
+
+⚡ Fun fact:
+I enjoy transforming complex business data into **clear insights that support better decisions**.
