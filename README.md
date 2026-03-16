@@ -1,43 +1,75 @@
 # 👋 Hi, I'm Beyza
 
-🎓 Master's student in **Business Informatics (Wirtschaftsinformatik)** with a strong interest in **data-driven decision making, data engineering, and business intelligence**.
+🎓 Master's student in **Business Informatics (MSc)** with a focus on **Data Engineering, Data Warehousing, and Business Intelligence**.
 
-💡 I enjoy working at the intersection of **data analytics, business processes, and digital transformation**.
+💡 I enjoy building **data-driven solutions that connect business processes with modern data platforms**, especially within the **Microsoft Data & BI ecosystem (Azure, Fabric, Power BI)**.
+
+---
 
 ## 🔍 Areas of Interest
 
-* Data Analytics & Business Intelligence
-* IT Controlling & Financial Data Analysis
-* Process Automation & Digitalisation
-* Data Engineering for Business Applications
+- Data Engineering & Data Warehousing  
+- Business Intelligence & Data Analytics  
+- Cloud Data Platforms (Microsoft Azure / Fabric)  
+- Process Automation & Digital Transformation  
+- Data-Driven Decision Support  
+
+---
 
 ## 🛠 Tools & Technologies
 
-* Python (pandas, data analysis)
-* SQL
-* Power BI
-* Excel & Data Modelling
-* Git & GitHub
-* Process modelling (BPMN)
+### Data Engineering
+- SQL  
+- Python  
+- ETL / ELT Pipelines  
+- Data Integration  
+
+### Data Platforms
+- Microsoft Azure  
+- Microsoft Fabric  
+- SQL Server  
+
+### Business Intelligence
+- Power BI  
+- Data Modelling (Star Schema / Snowflake)  
+
+### Automation & Process Tools
+- Power Automate  
+- Power Apps  
+- RPA (UiPath)  
+
+### Other
+- Git & GitHub  
+- BPMN Process Modelling  
+
+---
 
 ## 📚 Currently
 
-* Studying **MSc in Business Informatics**
-* Building projects related to **data analytics and IT controlling**
-* Exploring ways to automate business and reporting processes
+- Studying **MSc in Business Informatics (Wirtschaftsinformatik)**  
+- Building projects related to **Data Engineering, BI, and Data Warehousing**  
+- Exploring **Azure Data Platform and Microsoft Fabric**
+
+---
 
 ## 🤝 Collaboration
 
 I'm interested in collaborating on projects related to:
 
-* Data analytics
-* Business intelligence
-* Automation of business processes
-* Data-driven decision support
+- Data Engineering & Data Pipelines  
+- Data Warehousing & Data Modelling  
+- Business Intelligence solutions  
+- Automation of data and reporting workflows  
+
+---
 
 ## 📫 Contact
 
-📧 [b.tercan@outlook.com](mailto:b.tercan@outlook.com)
+📧 **Email:**  
+b.tercan@outlook.com
 
-⚡ Fun fact:
-I enjoy transforming complex business data into **clear insights that support better decisions**.
+---
+
+⚡ **Fun fact**
+
+I enjoy transforming **complex data into structured models, pipelines, and dashboards that enable better business decisions.**
